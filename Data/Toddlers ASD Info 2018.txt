@@ -1,0 +1,17 @@
+Context
+
+The dataset was developed by Dr Fadi Fayez Thabtah (fadifayez.com) using a mobile app called ASDTests (ASDtests.com) to screen autism in toddlers.
+See the description file attached with the CSV data to know more about the variables and the class.
+This data can be used for descriptive and predictive analyses such as classification, clustering, regression, etc. You may use it to estimate the predictive power of machine learning techniques in detecting autistic traits
+
+Content
+
+What's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.
+
+Acknowledgements
+
+We wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.
+
+Inspiration
+
+Your data will be in front of the world's largest data science community. What questions do you want to see answered?
